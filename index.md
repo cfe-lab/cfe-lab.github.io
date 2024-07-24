@@ -2,6 +2,7 @@
 title: Lab Software Development Team
 subtitle: at the BC Centre for Excellence in HIV/AIDS
 ---
+
 We're building tools for the clinical and research work here at the BC CfE. If you'd like to help stop HIV,
 look for open positions at the [CfE careers page].
 
@@ -44,10 +45,10 @@ The Lancet. Infectious Diseases Jun 2016 DOI: [10.1016/s1473-3099(16)00124-9]
 *Joy JB, Liang RH, McCloskey RM, Nguyen T, Poon AFY*
 PLoS Comput Biol Jul 2016 DOI: [10.1371/journal.pcbi.1004763]
 
-[CfE careers page]: http://cfenet.ubc.ca/join-us/careers
+[CfE careers page]: https://bccfe.ca/careers
 [MiCall]: https://cfe-lab.github.io/MiCall/
 [Kive]: https://cfe-lab.github.io/Kive/
-[BC CfE page]: http://cfenet.ubc.ca/
+[BC CfE page]: https://bccfe.ca
 [10.1128/JCM.06689-11]: https://www.doi.org/10.1128/JCM.06689-11
 [10.1073/pnas.1802028115]: https://doi.org/10.1073/pnas.1802028115
 [10.1016/j.meegid.2019.01.016]: https://doi.org/10.1016/j.meegid.2019.01.016
